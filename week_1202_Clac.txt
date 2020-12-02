@@ -10,7 +10,7 @@
         font-size:4em;
       }
       input{
-        width:24%;
+        width:24.7%;
         height:13%;
         font-size:4em;
       }
